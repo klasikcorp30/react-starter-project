@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <div className="jumbotron">
+        <div className="jumbotron m-3">
           <h1 className="display-3">ReactJS and Bootstrap Boilerplate</h1>
           <p className="lead">This pack comes with all the React dependencies installed along with the Boostrap library.</p>
           <hr className="my-2" />

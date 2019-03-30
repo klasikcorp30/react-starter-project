@@ -7,3 +7,12 @@
     background: #7952b3 !important;
     border-radius: none !important;
 }
+
+/* Responsive Desgin */
+@media (min-width: 400px) and (max-width: 767px) {
+    .bootstrap{
+        width: 100% !important;
+        overflow-wrap: break-word;
+        display: block;
+    }
+}
